@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(20, 20, 20);
+    color: rgb(152, 152, 154);
+    
+}
+.navbar ul li:hover{
+    color: rgb(255, 255, 255);
+    transition: 1s;
+}
+#your .row{
+    height: 62vh;
+    text-align: left;
+}
+.header{
+    text-align: center;
+}
+
+.col-5{
+    background-image: url(https://t4.ftcdn.net/jpg/01/42/29/87/360_F_142298783_68RBdaFlyP2sqNPTUn5yUjf5MG3ZeO1b.jpg);
+    background-size: cover;
+}
+#future .row{
+        height: 35vh;
+}
+.fa:hover{
+    color:#a98413; ;
+}
